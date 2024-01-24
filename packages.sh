@@ -1,6 +1,5 @@
 # Updating the system
 sudo apt-get update -y
-sudo apt-get upgrade -y
 
 # Install htop and screen
 sudo apt-get install -y htop screen
