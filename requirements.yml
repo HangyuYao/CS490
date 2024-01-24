@@ -1,7 +1,0 @@
-conda create --name hy python=3.9
-conda activate hy
-conda install -c conda-forge notebook
-conda install -c conda-forge nb_conda_kernels
-conda install nb_conda
-jupyter notebook --no-browser --port=5910
-conda env export > requirements.yml
