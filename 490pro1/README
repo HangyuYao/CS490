@@ -1,0 +1,1 @@
+This project downloaded ten experiments from NNCODE, and the modified 10 pos files and 10 neg files are in the data folder. This project uses the average to determine the deletion value, so the length of each file is not the same, but the length of each pair of pos and neg is the same.
